@@ -3,11 +3,11 @@
 ## Versi 1.0
 
 [✅ Dasbor](#-dasbor-indexhtml)
-✅ Siswa > Create
-✅ Siswa > Read
-✅ Siswa > Read Detail
-✅ Siswa > Update
-✅ Siswa > Delete
+[✅ Siswa > Create](#-siswa--create-siswa-createhtml)
+[✅ Siswa > Read](#-siswa--read-siswa-readhtml)
+[✅ Siswa > Read Detail](#-siswa--read-detail-siswa-read-detailhtml)
+[✅ Siswa > Update](#-siswa--update-siswa-updatehtml)
+[✅ Siswa > Delete](#-siswa--delete-siswa-deletehtml)
 
 ## Screenshot
 
