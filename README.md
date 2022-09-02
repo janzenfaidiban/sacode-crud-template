@@ -2,7 +2,7 @@
 
 ## Versi 1.0
 
-[✅ Dasbor](link)
+[✅ Dasbor](https://github.com/janzenfaidiban/sacode-crud-template#-dasbor-indexhtml)
 ✅ Siswa > Create
 ✅ Siswa > Read
 ✅ Siswa > Read Detail
