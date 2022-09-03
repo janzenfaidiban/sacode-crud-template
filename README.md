@@ -1,5 +1,7 @@
 # SaCode CRUD Template
 
+[View Demo](https://janzenfaidiban.github.io/sacode-crud-template/)
+
 ## Versi 1.0
 
 [✅ Dasbor](#-dasbor-indexhtml) <br>
